@@ -1,0 +1,19 @@
+header {
+    text-align: center;
+    font-size: 200%;
+}
+
+nav button {
+    background: #3498db;
+    border-radius: 15px;
+    font-size: 200%;
+    width: 20%;
+    padding: 10px 20px 10px 20px;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 60%;
+    text-align: center;
+}
