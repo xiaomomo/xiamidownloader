@@ -16,15 +16,22 @@
 <script id="template_album_detail" type="template">
 
     <ul class="topcoat-list list">
+
+        <li class="topcoat-list__item J_checkbox_li_all">
+            <label class="topcoat-checkbox">
+                <input type="checkbox" class="J_song_checkbox">
+                <div class="topcoat-checkbox__checkmark"></div>
+                全选
+            </label>
+        </li>
+
         <%for(i = 0; i < albumList.length; i ++) {%>
-        <li class="topcoat-list__item">
-            <a>
-                <img ng-src="pics/{{employee.pic}}">
-
-                <p><%= albumList[i]%></p>
-
-                <p><%= albumList[i]%></p>
-            </a>
+        <li class="topcoat-list__item J_checkbox_li">
+            <label class="topcoat-checkbox">
+                <input type="checkbox" class="J_song_checkbox" value="<%= albumList[i]%>">
+                <div class="topcoat-checkbox__checkmark"></div>
+                <%= albumList[i]%>
+            </label>
         </li>
         <%}%>
     </ul>
@@ -38,9 +45,11 @@
 <div class="search-bar">
     <input type="search" id="albumId" placeholder="虾米专辑Id" class="topcoat-search-input search-key">
     <button class="topcoat-button J_searchAlbum">搜索</button>
+    <button class="topcoat-button download_button J_downloadSong">下载选中</button>
 </div>
 
 <div class="topcoat-list__container scroller" style="top:138px;">
 </div>
+
 </body>
 </html>

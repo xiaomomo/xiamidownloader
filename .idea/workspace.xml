@@ -96,47 +96,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/youyu/xiamidownloader/activity/MainActivity.java">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/h5/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="37" selection-start="1724" selection-end="1724" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="1020">
+            <state line="17" column="76" selection-start="575" selection-end="575" vertical-scroll-proportion="0.33864543" vertical-offset="0" max-vertical-offset="900">
               <folding>
-                <element signature="e#1297#2560#0" expanded="true" />
-                <element signature="e#1515#1529#0" expanded="true" />
-                <element signature="e#1530#1983#0" expanded="true" />
-                <element signature="e#1964#1965#0" expanded="true" />
-                <element signature="e#2549#2550#0" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1399528277000" expanded="true" signature="574:1262" placeholder="..." />
+                <marker date="1399528277000" expanded="true" signature="633:860" placeholder="..." />
+                <marker date="1399528277000" expanded="true" signature="678:846" placeholder="..." />
+                <marker date="1399528277000" expanded="true" signature="968:1238" placeholder="..." />
+                <marker date="1399528277000" expanded="true" signature="1013:1224" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JSONObject.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/dev/adt-bundle-mac-x86_64/sdk/platforms/android-19/android.jar!/org/json/JSONObject.class">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/h5/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="119" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1545">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FutureTaskHelper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/youyu/xiamidownloader/util/FutureTaskHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="44" selection-start="684" selection-end="705" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="2115">
-              <folding>
-                <element signature="e#0#4200#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#849#855#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Handler.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/dev/adt-bundle-mac-x86_64/sdk/platforms/android-19/android.jar!/android/os/Handler.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="16" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="1245">
+            <state line="14" column="56" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
@@ -145,7 +124,7 @@
       <file leaf-file-name="XiamiAlbumParser.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/youyu/xiamidownloader/util/XiamiAlbumParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="89" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1200">
+            <state line="27" column="40" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1727#1735#0" expanded="true" />
@@ -154,42 +133,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HttpResponse.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/dev/adt-bundle-mac-x86_64/sdk/platforms/android-19/android.jar!/org/apache/http/HttpResponse.class">
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/h5/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="17" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Teste.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/youyu/xiamidownloader/util/Teste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="25" selection-start="176" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/h5/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="165" selection-start="345" selection-end="345" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="765">
-              <folding>
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1399455244000" expanded="true" signature="574:877" placeholder="..." />
-                <marker date="1399455244000" expanded="true" signature="667:853" placeholder="..." />
-                <marker date="1399455244000" expanded="true" signature="683:839" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/h5/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="82" selection-start="657" selection-end="657" vertical-scroll-proportion="0.4054054" vertical-offset="0" max-vertical-offset="777">
+            <state line="9" column="50" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
               <folding />
             </state>
           </provider>
@@ -233,12 +180,12 @@
         <option value="$PROJECT_DIR$/src/com/youyu/xiamidownloader/activity/Test.java" />
         <option value="$PROJECT_DIR$/src/com/youyu/xiamidownloader/activity/FutureTaskHelper.java" />
         <option value="$PROJECT_DIR$/src/com/youyu/xiamidownloader/util/FutureTaskHelper.java" />
-        <option value="$PROJECT_DIR$/assets/h5/css/index.css" />
         <option value="$PROJECT_DIR$/src/com/youyu/xiamidownloader/util/XiamiDownloader.java" />
         <option value="$PROJECT_DIR$/src/com/youyu/xiamidownloader/util/XiamiAlbumParser.java" />
-        <option value="$PROJECT_DIR$/assets/h5/index.html" />
         <option value="$PROJECT_DIR$/src/com/youyu/xiamidownloader/util/Teste.java" />
         <option value="$PROJECT_DIR$/src/com/youyu/xiamidownloader/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/assets/h5/index.html" />
+        <option value="$PROJECT_DIR$/assets/h5/css/index.css" />
         <option value="$PROJECT_DIR$/assets/h5/js/index.js" />
       </list>
     </option>
@@ -832,12 +779,12 @@
       <workItem from="1395664817695" duration="747000" />
       <workItem from="1395666697809" duration="2567000" />
       <workItem from="1399358460410" duration="5585000" />
-      <workItem from="1399426697274" duration="26872000" />
+      <workItem from="1399426697274" duration="37072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91998000" />
+    <option name="totallyTimeSpent" value="102198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="22" width="1440" height="874" extended-state="6" />
@@ -858,7 +805,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6322981" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6310559" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -898,7 +845,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.65093166" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6322981" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6310559" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1166,13 +1113,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/h5/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="256" column="1" selection-start="4754" selection-end="4754" vertical-scroll-proportion="0.0" vertical-offset="3633" max-vertical-offset="4530">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/dev/adt-bundle-mac-x86_64/sdk/platforms/android-19/android.jar!/org/json/JSONArray.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="30" selection-start="991" selection-end="991" vertical-scroll-proportion="0.0" vertical-offset="131" max-vertical-offset="1515">
@@ -1242,32 +1182,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/h5/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="165" selection-start="345" selection-end="345" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="765">
-          <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1399455244000" expanded="true" signature="574:877" placeholder="..." />
-            <marker date="1399455244000" expanded="true" signature="667:853" placeholder="..." />
-            <marker date="1399455244000" expanded="true" signature="683:839" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/dev/adt-bundle-mac-x86_64/sdk/platforms/android-19/android.jar!/java/lang/Thread.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="148" column="0" selection-start="5233" selection-end="5233" vertical-scroll-proportion="0.6641791" vertical-offset="2027" max-vertical-offset="2295">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/youyu/xiamidownloader/util/XiamiAlbumParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="89" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1200">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1727#1735#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1286,8 +1204,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/h5/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="82" selection-start="657" selection-end="657" vertical-scroll-proportion="0.4054054" vertical-offset="0" max-vertical-offset="777">
+        <state line="14" column="56" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/youyu/xiamidownloader/util/XiamiAlbumParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="40" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1727#1735#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/h5/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="50" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/h5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="76" selection-start="575" selection-end="575" vertical-scroll-proportion="0.33864543" vertical-offset="0" max-vertical-offset="900">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1399528277000" expanded="true" signature="574:1262" placeholder="..." />
+            <marker date="1399528277000" expanded="true" signature="633:860" placeholder="..." />
+            <marker date="1399528277000" expanded="true" signature="678:846" placeholder="..." />
+            <marker date="1399528277000" expanded="true" signature="968:1238" placeholder="..." />
+            <marker date="1399528277000" expanded="true" signature="1013:1224" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
