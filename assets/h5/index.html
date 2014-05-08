@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en" ng-app="myApp">
+<head>
+    <meta charset="GBK">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <link href="topcoat/css/topcoat-mobile-light.min.css" rel="stylesheet">
+    <link href="css/index.css" rel="stylesheet">
+    <script src="lib/zepto.js"></script>
+    <script src="lib/template.js"></script>
+    <script src="js/index.js"></script>
+</head>
+
+<body>
+
+<script id="template_album_detail" type="template">
+
+    <ul class="topcoat-list list">
+        <%for(i = 0; i < albumList.length; i ++) {%>
+        <li class="topcoat-list__item">
+            <a>
+                <img ng-src="pics/{{employee.pic}}">
+
+                <p><%= albumList[i]%></p>
+
+                <p><%= albumList[i]%></p>
+            </a>
+        </li>
+        <%}%>
+    </ul>
+</script>
+
+<div class="topcoat-navigation-bar">
+    <div class="topcoat-navigation-bar__item center full">
+        <h1 class="topcoat-navigation-bar__title">虾米下音乐</h1>
+    </div>
+</div>
+<div class="search-bar">
+    <input type="search" id="albumId" placeholder="虾米专辑Id" class="topcoat-search-input search-key">
+    <button class="topcoat-button J_searchAlbum">搜索</button>
+</div>
+
+<div class="topcoat-list__container scroller" style="top:138px;">
+</div>
+</body>
+</html>

@@ -1,28 +1,25 @@
-<!DOCTYPE html>
-
-<html>
+<!doctype html>
+<html lang="en" ng-app="myApp">
 <head>
-    <meta charset="gbk">
-    <meta name=”viewport” content=”width=device-width, initial-scale=1.0″/>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <link href="../topcoat/css/topcoat-mobile-light.min.css" rel="stylesheet">
+    <link href="../css/index.css" rel="stylesheet">
+    <script src="../angular/angular.js"></script>
+    <script src="../angular/angular-touch.js"></script>
+    <script src="../angular/angular-resource.js"></script>
+    <script src="../angular/angular-animate.js"></script>
+    <script src="../angular/angular-route.js"></script>
+    <script src="../js/app.js"></script>
+    <script src="../js/controllers.js"></script>
+    <script src="../js/memory-services.js"></script>
+    <script src="../js/rest-services.js"></script>
 </head>
-<title></title>
-<link type="text/css" rel="stylesheet" href="../css/main.css"/>
-<link type="text/css" rel="stylesheet" href="../css/default.css"/>
-<script src="../js/main.js"></script>
-</head>
-<body>
 
-<header>
-    <h1>虾米音乐下载器</h1>
-</header>
-<nav>
-    <button onclick="">更改帐号</button>
-    <button onclick="startActivity('newDownload')">新建下载</button>
-    <button onclick="">下载队列</button>
-    <button onclick="">已下载列表</button>
-</nav>
-<footer>
-    <strong>author:youyu.lqj</strong>
-</footer>
+<body ng-controller="MainCtrl">
+
+<div ng-view ng-class="slide"></div>
+
 </body>
 </html>
